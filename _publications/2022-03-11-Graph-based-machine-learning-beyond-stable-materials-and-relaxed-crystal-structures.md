@@ -3,7 +3,7 @@ title: "Graph-based machine learning beyond stable materials and relaxed crystal
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-11-Graph-based-machine-learning-beyond-stable-materials-and-relaxed-crystal-structures
-excerpt: 'Evalutaion the performance of a GNN for crystals in a high-throughput search setting, and proposing an ML-assisted workflow'
+excerpt: 'Evaluating the performance of a GNN for crystals in a high-throughput search setting, and proposing an ML-assisted workflow'
 date: 2022-03-11
 venue: 'Physical Review Materials'
 # slidesurl:
