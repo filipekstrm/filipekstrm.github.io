@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Linköping University, 2025 (expected)
+* M.Sc. in Applied Physics and Electrical Engineering, Linköping University, 2020
+  * Track: Theory, modeling, and computations
+  * Thesis title: Graph neural networks for prediction of formation energies of crystals
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Machine learning intern
+  * Ericsson Research, Linköping
+  * Data collection and analysis
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning
+  * Deep learning
+  * Graph neural networks
+  * Diffusion models
+  * Sequential Monte Carlo
+* Python programming
+  * Implementations of machine learning methods
 
 Publications
 ======
@@ -61,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer AISTATS 2024
+* Reviewer AISTATS 2025
