@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/tdde01-machine-learning
 venue: "Linköping University, Division of Statistics and Machine Learning"
-date: ""
+date: "2020-09-01"
 location: "Linköping, Sweden"
 ---
 
