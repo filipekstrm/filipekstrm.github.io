@@ -1,5 +1,5 @@
 ---
-title: "Learning on Graphs and Geometry Meetup Uppsakla"
+title: "Learning on Graphs and Geometry Meetup Uppsala"
 collection: talks
 type: "Workshop"
 permalink: /talks/2025-02-25-LoG-meetup-Uppsala
