@@ -6,7 +6,7 @@ permalink: /publication/2024-05-03-Discriminator-Guidance-for-Autoregressive-Dif
 excerpt: 'Three versions of discriminator guidance for autoregressive (diffusion) models'
 date: 2024-05-04
 venue: 'The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)'
-# slidesurl: 'https://neurips.cc/virtual/2023/poster/72565'
+# slidesurl:
 paperurl: 'https://proceedings.mlr.press/v238/ekstrom-kelvinius24a.html'
 citation: 'Ekström Kelvinius, F. &amp; Lindsten, F.. (2024). Discriminator Guidance for Autoregressive Diffusion Models. <i>Proceedings of The 27th International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 238:3403-3411 Available from https://proceedings.mlr.press/v238/ekstrom-kelvinius24a.html.'
 ---
