@@ -1,7 +1,7 @@
 ---
 title: "Master's thesis supervision"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's course"
 permalink: /teaching/masters-thesis-supervision
 venue: "Linköping University, Division of Statistics and Machine Learning"
 start_date: "2021-01-01"
