@@ -2,7 +2,7 @@
 title: "Learning on Graphs and Geometry Meetup Uppsala"
 collection: talks
 type: "Workshop"
-permalink: /talks/2025-02-25-LoG-meetup-Uppsala
+permalink: /talks/2025-02-12-LoG-meetup-Uppsala
 venue: "Uppsala University"
 date: 2025-02-12
 location: "Uppsala, Sweden"
