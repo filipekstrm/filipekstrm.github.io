@@ -1,11 +1,11 @@
 ---
 title: "WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/2025-02-10-WyckoffDiff
 excerpt: 'Discrete diffusion model for generating materials as descriptions of their symmetry properties'
 date: 2025-02-10
-venue: 'arXiv'
+venue: 'ICML 2025 (to appear)'
 # slidesurl:
 paperurl: 'https://arxiv.org/abs/2502.06485'
 citation: 'Ekström Kelvinius, F., Andersson, O. B., Parackal, A. S., Qian, D., Armiento, R., & Lindsten, F. (2025). WyckoffDiff-A Generative Diffusion Model for Crystal Symmetry. arXiv preprint arXiv:2502.06485.'
