@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-02-10-WyckoffDiff
 excerpt: 'Discrete diffusion model for generating materials as descriptions of their symmetry properties'
-date: 2025-02-10
+date: 2025-07-13
 venue: 'ICML'
 # slidesurl:
 paperurl: 'https://proceedings.mlr.press/v267/ekstrom-kelvinius25a.html'

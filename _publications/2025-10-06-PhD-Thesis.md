@@ -5,6 +5,7 @@ category: thesis
 permalink: /publication/2025-10-06-PhD-Thesis
 excerpt: 'PhD thesis on the topic of graph neural networks and deep generative models'
 date: 2025-10-06
+venue: Linköping University Electronic Press
 # slidesurl:
 paperurl: 'https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-218503'
 citation: 'Ekström Kelvinius, F. (2025). Deep Learning for the Atomic Scale : Graph Neural Networks and Deep Generative Models with Some Applications to Materials and Molecules (PhD dissertation, Linköping University Electronic Press). https://doi.org/10.3384/9789181181852'
