@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in machine learning at Linköping University, supervised by Professor Fredrik Lindsten. I research deep learning methods with the discovery of new materials being the main motivation. This has resulted in works related to graph neural networks and diffusion models.
+I obtained my PhD in machine learning in November 2025 from Linköping University where I was supervised by Professor Fredrik Lindsten. My thesis concerned deep learning methods with the discovery of new materials being the main motivation. This resulted in works related to graph neural networks and diffusion models published at NeurIPS, ICML, and AISTATS. Currently, I am focused on generative models.
 
-> I am on the job market: I will graduate in November 2025 and I am looking for the next step in my career.
+> I am on the job market: I will for now stay at Linköping University, but I am still open for new opportunities.
 
 # Latest News
+* *2025-11-07* I have defended my thesis! 🎓🎓
 * *2025-10-20* [DDSMC](https://proceedings.mlr.press/v267/ekstrom-kelvinius25b.html) is now implemented in the [InverseBench codebase](https://github.com/devzhk/InverseBench)
 * *2025-10-06* My PhD thesis is now available [online](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-218503)! I'll defend on November 7.
 * *2025-07-03* Code for [DDSMC](https://arxiv.org/abs/2502.06379) is now out: <https://github.com/filipekstrm/ddsmc>
