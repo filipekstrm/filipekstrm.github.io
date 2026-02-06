@@ -9,9 +9,10 @@ redirect_from:
 
 I obtained my PhD in machine learning in November 2025 from Linköping University where I was supervised by Professor Fredrik Lindsten. My thesis concerned deep learning methods with the discovery of new materials being the main motivation. This resulted in works related to graph neural networks and diffusion models published at NeurIPS, ICML, and AISTATS. Currently, I am focused on generative models.
 
-> I am on the job market: I will for now stay at Linköping University, but I am still open for new opportunities.
+> I am on the job market: I will for now stay at Linköping University, but I am still open for new opportunities. Get in touch if you think my profile is of interest!
 
 # Latest News
+* *2026-01-02* I have now started a postdoc position at Linköping University. I will continue doing research on machine learning for materials discovery
 * *2025-11-07* I have defended my thesis! 🎓🎓
 * *2025-10-20* [DDSMC](https://proceedings.mlr.press/v267/ekstrom-kelvinius25b.html) is now implemented in the [InverseBench codebase](https://github.com/devzhk/InverseBench)
 * *2025-10-16* Visited [LST4](https://www.epfl.ch/labs/lts4/) at EPFL and talked about sequential Monte Carlo and combining it with deep generative models.

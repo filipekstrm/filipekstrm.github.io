@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Linköping University, 2025 (expected)
+* Ph.D. in Computer Science, Linköping University, 2025
 * M.Sc. in Applied Physics and Electrical Engineering, Linköping University, 2020
   * Track: Theory, modeling, and computations
   * Thesis title: Graph neural networks for prediction of formation energies of crystals
 
 Work experience
 ======
+* 2026-02: Postodoctoral researcher
+  * Linköping University
+  * Research on machine learning for materials discovery
 * Summer 2019: Machine learning intern
   * Ericsson Research, Linköping
   * Data collection and analysis
@@ -31,6 +34,7 @@ Skills
   * Sequential Monte Carlo
 * Python programming
   * Implementations of machine learning methods
+  * Extensive knowledge of PyTorch
 
 Publications
 ======
@@ -54,3 +58,4 @@ Service and leadership
 ======
 * Reviewer AISTATS 2024
 * Reviewer AISTATS 2025
+* Reviewer ICLR 2026
