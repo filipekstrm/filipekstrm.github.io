@@ -12,7 +12,7 @@ I obtained my PhD in machine learning in November 2025 from Linköping Universit
 > I am on the job market: I will for now stay at Linköping University, but I am still open for new opportunities. Get in touch if you think my profile is of interest!
 
 # Latest News
-* *2026-01-02* I have now started a postdoc position at Linköping University. I will continue doing research on machine learning for materials discovery
+* *2026-02-01* I have now started a postdoc position at Linköping University. I will continue doing research on machine learning for materials discovery
 * *2025-11-07* I have defended my thesis! 🎓🎓
 * *2025-10-20* [DDSMC](https://proceedings.mlr.press/v267/ekstrom-kelvinius25b.html) is now implemented in the [InverseBench codebase](https://github.com/devzhk/InverseBench)
 * *2025-10-16* Visited [LST4](https://www.epfl.ch/labs/lts4/) at EPFL and talked about sequential Monte Carlo and combining it with deep generative models.
