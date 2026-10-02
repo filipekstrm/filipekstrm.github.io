@@ -18,7 +18,9 @@ Education
 
 Work experience
 ======
-* 2026-02: Postodoctoral researcher
+* 2026-10 - present: Postdoctoral researcher
+  * Massachusetts Institute of Technology, Department of Materials Science and Engineering
+* 2026-02 - 2026-08: Postdoctoral researcher
   * Linköping University
   * Research on machine learning for materials discovery
 * Summer 2019: Machine learning intern

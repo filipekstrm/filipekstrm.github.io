@@ -8,7 +8,7 @@ date: 2023-12-12
 venue: 'Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)'
 slidesurl: 'https://neurips.cc/virtual/2023/poster/72565'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/51ec452ca04d8ec7160e5bbaf76153f6-Abstract-Conference.html'
-citation: 'Ekström Kelvinius, F., Georgiev, D., Toshev, A., & Gasteiger, J. (2024). Accelerating molecular graph neural networks via knowledge distillation. Advances in Neural Information Processing Systems, 36.'
+citation: 'Ekström Kelvinius, F., Georgiev, D., Toshev, A., & Gasteiger, J. (2023). Accelerating molecular graph neural networks via knowledge distillation. <i>Advances in Neural Information Processing Systems, 36</i>.'
 ---
 
 Abstract:
