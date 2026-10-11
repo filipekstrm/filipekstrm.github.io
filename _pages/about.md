@@ -11,6 +11,7 @@ I am currently a postdoctoral researcher in the Department of Materials Science 
 I obtained my PhD in machine learning in November 2025 from Linköping University where I was supervised by Professor Fredrik Lindsten. My thesis concerned deep learning methods with the discovery of new materials being the main motivation. This resulted in works related to graph neural networks and diffusion models published at NeurIPS, ICML, and AISTATS.
 
 # Latest News
+* *2026-10-11* I was named a top reviewer at NeurIPS, and I am going to attend the satellite event in Atlanta! Perhaps I'll see you there?
 * *2026-10-01* I have now arrived at MIT!
 * *2026-09-24* [SymADiT](https://arxiv.org/abs/2605.10115) was accepted at NeurIPS!
 * *2026-03-24* I have received the Wallenberg Foundation Scholarship Program for Postdoctoral studies at MIT! I will be hosted by Professor Rafael Gómez-Bombarelli in the [Learning Matter Lab](https://gomezbombarelli.mit.edu/) 
